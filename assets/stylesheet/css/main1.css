@@ -1,0 +1,120 @@
+.screen-align{
+    display: flex;
+    flex-direction: row;
+}
+.screen-left{
+    width: 50%;
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: white;
+}
+.screen-right{
+    width: 50%;
+    height: 100vh;
+    box-sizing: border-box;
+    background-color: white;
+    font-family: Roboto,Arial,sans-serif;
+}
+.list-img-style{
+    display: flex;
+    flex-direction: column;
+    position: absolute;
+
+}
+.list-img-style1{
+    list-style-type: none;
+    width: 20px;
+}
+.list-img-style2{
+    width: 80px;
+    border: none;
+}
+.list-img-style2:hover{
+    border: 1.4px solid blue;
+    border-radius: 2.5px;
+    cursor: pointer;
+    transform: scale(1);
+}
+.heart-svg-align{
+    text-align: right;
+    padding: 20px 30px 0 0;
+}
+.heart-sign{
+    text-align: right;
+    fill: silver;
+    padding: 5px;
+    border-radius: 25px;
+    box-shadow: 0 1px 4px 0 rgb(0 0 0 / 10%);
+}
+.img-position1{
+    text-align: right;
+    padding: 20px 30px 0 0;
+}
+.img-resize{
+    width: 70%;
+}
+.button-style{
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30px;
+}
+.button1-style{
+    cursor: pointer;
+    background-color: #ff9f00;
+    color: white;
+    font-family: Roboto,Arial,sans-serif;
+    padding: 10px 70px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+    border-radius: 2px;
+    border: none;
+}
+.button2-style{
+    cursor: pointer;
+    background-color: #fb641b;
+    color: white;
+    font-family: Roboto,Arial,sans-serif;
+    padding: 10px 85px;
+    box-shadow: 0 1px 2px 0 rgb(0 0 0 / 20%);
+    border-radius: 2px;
+    border: none;
+}
+.believe-style{
+    color: silver;
+}
+.rate-casalation{
+    text-decoration: line-through;
+    color: silver;
+    font-size: 15px;
+}
+.offer-style{
+    font-size: 15px;
+    color: green;
+}
+.ratting-style{
+    display: inline-flex;
+}
+.star-rating{
+    background-color: green;
+    color: white;
+    border-radius: 50px;
+    border: none;
+    padding: 5px;
+    width: 50px;
+}
+.reviews-style{
+    color: silver;
+    font-size: 15px;
+    margin-top: 10px;
+    position: absolute;
+    margin: 8px 0 0 10px;
+}
+.assured-style{
+    width: 70px;
+    margin-top: 5px;
+    margin-left: 250px;
+}
+.number-count-style{
+    width: 15px;
+}
