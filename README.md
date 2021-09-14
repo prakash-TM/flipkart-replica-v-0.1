@@ -1,8 +1,8 @@
 # flipkart-replica-v-0.1
  I have created flipkart replica with the help of HTML, CSS, Js.
 
-[live demo][website]
-[website] : https://prakash-tm.github.io/flipkart-replica-v-0.1/
+[live demo](https://prakash-tm.github.io/flipkart-replica-v-0.1/)
+<!-- [website] : https://prakash-tm.github.io/flipkart-replica-v-0.1/ -->
 
 
 
@@ -15,9 +15,6 @@
 
 
  [more videos...](https://youtube.com/codestackr)
-
-  
-
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com -->
